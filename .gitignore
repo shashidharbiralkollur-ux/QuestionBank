@@ -1,0 +1,19 @@
+# ===== .NET / Visual Studio =====
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+
+# ===== React / Node =====
+node_modules/
+build/
+dist/
+
+# ===== Logs =====
+*.log
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
